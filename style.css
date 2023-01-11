@@ -1,0 +1,43 @@
+ 
+h2.cabezera{
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+    text-align: center;
+ }
+  
+ h5.texto{
+    background-color: greenyellow;
+    text-align: center;
+    font-weight: normal;
+  
+ }
+  
+ p.cabeza{
+    font-weight: bold;
+    background-color: orange;
+ }
+ div.parrafo{
+    background-color: orange;
+    width: 1500px;
+    display: block;
+    font-weight: normal;
+ }
+ 
+ div.bloque{
+    display: inline-block;
+ }
+ p.pie{
+    color: blue;
+      
+    background-color: blue;
+    text-align: center;
+    background-attachment: yelow;
+ }
+ span.pie2{
+    background-color: yellow;
+    color: blue;
+ }
+ h5.texto2{
+    font-weight: normal;
+    height: 0px;
+ }
